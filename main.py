@@ -170,3 +170,7 @@ def getBlock():
     return read_element("blocks", "block_height", "block_hash", lowestBlock)
 
 
+#HELLO THIS IS A COMMENT LMAO
+
+
+
